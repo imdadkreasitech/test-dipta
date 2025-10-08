@@ -10,3 +10,6 @@ JS FUNDAMENTAL
 -object
 -arrays
 -functions (func definitions, func arrows, func parameters)
+ 
+
+ docs: https://docs.google.com/document/d/1RcdUEVhOWf-BQfciL3Fwz2dHXQR4IACmoLDid1nckoY/edit?usp=sharing
