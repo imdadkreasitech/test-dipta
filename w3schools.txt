@@ -1,0 +1,12 @@
+JS FUNDAMENTAL
+-syntax
+-variables
+-operators
+-if conditions
+-loops
+-string
+-numbers
+-functions
+-object
+-arrays
+-functions (func definitions, func arrows, func parameters)
