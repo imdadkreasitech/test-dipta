@@ -1,2 +1,3 @@
 1. Komponen dan props: https://docs.google.com/document/d/1HiDvdaTGFv1xkDOBykQRL71KDSSYyBp64m1GrHBxYF8/edit?tab=t.0
 2. Todo list: https://docs.google.com/document/d/1wDYDOoHhreiqNr5RQv96r1Gc5lVul4qwZiMhWdEmkNI/edit?tab=t.0
+3. Pokemon: https://docs.google.com/document/d/1RAZonaekOKvL348H4ZF5UNuZF5jjsEIkRfelx2KtzyE/edit?tab=t.0
